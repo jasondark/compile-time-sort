@@ -33,7 +33,7 @@
 // Example:
 //
 // #include <iostream>
-// #include "sort.h"
+// #include "sort.hpp"
 // using namespace std;
 //
 // int main(int argc, char **argv) {
@@ -46,6 +46,7 @@
 //
 //     cout << result << endl;
 //
+//     return 0;
 // }
 
 #include <array>
